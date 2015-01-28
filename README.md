@@ -1,6 +1,6 @@
 # Peanut Butter & Jams
 
-## A new way to experience your SoundCloud stream.
+## A new way to experience your music. Your tunes, blended with content from around the web.
 
 This is a product being built by the Assembly community. You can help push this idea forward by visiting [https://assembly.com/peanut-butter-jams](https://assembly.com/peanut-butter-jams).
 
